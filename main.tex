@@ -1,0 +1,154 @@
+\documentclass[fleqn,10pt]{wlscirep}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{cite}
+\title{Application of Single-cell Analysis Technologies on Bacteria}
+
+\author[1,2,+]{Zhixin Ma}
+\author[1,2,+]{Pan M. Chu}
+\author[1,2,+]{Yingtong Su}
+\author[1,2,*]{Shuqiang Huang}
+\author[1,2,*]{Xiongfei Fu}
+\affil[1]{University of Chinese Academy of Sciences, No.19(A) Yuquan Road, Shijingshan District, Beijing, 100049, P.R.China}
+\affil[2]{Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, 1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, 518055, P.R.China}
+
+\affil[*]{corresponding.author@email.example}
+
+\affil[+]{these authors contributed equally to this work}
+
+%\keywords{Keyword1, Keyword2, Keyword3}
+
+\begin{abstract}
+Example Abstract. Abstract must not include subheadings or citations.
+\end{abstract}
+\begin{document}
+
+\flushbottom
+\maketitle
+% * <john.hammersley@gmail.com> 2015-02-09T12:07:31.197Z:
+%
+%  Click the title above to edit the author information and abstract
+%
+\thispagestyle{empty}
+
+%\noindent Please note: Abbreviations should be introduced at the first mention in the main text – no abbreviations lists. Suggested structure of main text (not enforced) is provided below.
+
+\section[1]{Introduction}
+
+A typical prokaryotic cell, such as an \emph{Escherichia coli} cell, is often smaller than 10 micrometers and some specific proteins and RNAs only have copy numbers in single digits. It brings a tremendous challenge to quantify these amounts on such a the small scale. But not only that, it is nonsense to monitor one or two cells, because of the randomness of biological process\cite{Arkin:1998b4f}, thus acquiring adequate data of cells at same time is another main tasks of quantitative methods at the single-cell level. In brief, precision and high throughput are two characters of single-cell quantitative methods and their directions of evolution. Recently, single-cell quantitative methods are developed rapidly with maturing of high throughput sequencing, more sensitive probes and faster and higher resolution imaging technologies. There are two aspects of quantitative methods \textemdash spatial and temporal levels. Spatial level methods mainly focused on sampling the single-cell behaviors and its spatial structure to find out patterns underline, such as measuring single cells' gene expression level to reveal the existence of subpopulations in a homogeneity population in genome\cite{Ozbudak:2002b4f, Ozbudak:2004b4f}. Methods at the temporal level ask to get a series of data along time lapses\cite{Elowitz2002}. For example, time-lapse imaging methods measure the cells' size\cite{Wang2010 ,Tanouchi2015} or their tracks of swimming individually\cite{Alon1998}. 
+
+Traditionally, biologists study properties of bulk cultures to characterize the structures and functions of basic components, including genes, proteins and mRNAs, and emergence when they interact with each other, so called circuits or networks. However, it fails to seek the heterogeneity and gets an average information of a population. Indeed, the heterogeneity is a basic property of life system, from gene expression to regulation to cell elongation and division. Moreover, time autocorrelation behaviors, such as oscillation\cite{Ishiura1998, Elowitz2000} and DNA replication initiation\cite{Wang2010, Wallden2016}, are difficult to study in a population lacking of synchronization. Additionally, microbe behaviors including chemotaxis, migration and interaction are impossible to study at the population level. What's more, the complexity of biological process has already overstepped our intuition, wedding high quality quantitative data with mathematical model to explain it is becoming more and more important\cite{Amir:2018b4f}. Therefore, there is no doubt that studying a biological problem in the single-cell aspect and quantitative manner is important, in our opinion. To this end, a series of single-cell quantitative technologies have been established, like flow cytometry, microscopy and the recently popularized microfluidics platform. In summary, this technologies outreach our 'horizons', outfit our vision and control ability in small scale space, but what happened within cells is still elusive, like amounts and localizations of proteins, DNA mutation sites and plasmids partition at cell division. For these studies, probes and single-cell sequencing technologies are developed. Probes such as fluorescent protein, fluorescently labeled oligos and isotopes can be used to label single cells or even molecules for visualization. Single-cell sequencing technologies are also notable because of its throughput, especially for samples which are hard acquired and rare. Recent developed single-cell RNA sequencing(scRNA-seq) is promising for revealing bacterial transcriptome at the single-cell level.
+
+In is review, fluorescent probes, scRNA-seq and their integration platform --- microfluidics, which complement each other in single-cell quantitative technologies, are sketched respectively. At the end of this paper, we also discuss their applications in systems and synthetic biology and milestones in these flourish fields.
+
+\section[]{Applications in Systems and Synthetic Biology}
+
+The fluorescence technology has facilitated the exploration of microbes at the single cell level. Since the fluorescence employed as a non-destructive mean of analyzing biological molecules, scientists have exploited diverse fluorescent probes to study the morphology and physiology of the individual cell\cite{Brehm-Stecher2004}.With the rapid development of microscope technology, single-cell imaging which assisted by the fluorescent probes enables us to visualize the real intracellular dynamics. The method and recent advance of single-cell optical imaging has been reviewed in detail\cite{Stender2013}. Here we introduce two important fluorescent probes employed for single cell analysis including oligonucleotide probes and fluorescent proteins. 
+
+\subsection[]{Oligonucleotide probes}
+Fluorescently labelled oligonucleotide probes are oligonucleotide that either label with fluorescent dye molecules and enzyme or couple with reporter molecules. In general, this type of probe is applied to fluorescence in suit hybridization (FISH) which is a significant technique for microbiology\cite{Moter2000} FISH used fluorescent probes to hybridizes the complementary target sequence to detect and localize the presence or absence of specific DNA or RNA sequences. In 1989, Delong el. first used FISH in 16S ribosomal RNA to identify single microbial cells and quantify the ribosome content changes over a period of time which could be transformed to growth rate\cite{DeLong1989}. The kind of oligonucleotide probes  for different targets of FISH have increased subsequently such as that for 23S rRNA\cite{Manz1993,Amann1995}, 18S rRNA\cite{Lischewski1996}, mRNA\cite{Wagner1998} and genomic DNA\cite{Zwirglmaier2004}. In addition to the fluorescence imaging with microscopy, FISH combined with flow cytometry for sorting and quantifying cells in the mixed populations\cite{Wallner1993}.
+
+\subsection[]{Fluorescent proteins}
+Although FISH is now a functional and mature technology, it has some pitfalls like autofluorescence, insufficient probe penetration, photobleaching and high order structure\cite{Moter2000}c. In order to better understand the physiology of cells, a useful way is to monitor real-time gene expression. The successful exploitation of fluorescent proteins(FPs) made it possible. Green fluorescent protein(GFP), from Jellyfish Aequorea victoria\cite{SHIMOMURA1962}, is now widely used as a maker for gene expression. Owing to non-specific, small size, noninterference and cofactor-free, GFP enable us to observe the dynamics of events in living cell by fusing its coding sequence to gene of interest\cite{Stearns1995}, which not only for transcriptional but also translational analysis.
+
+With the fast development of fluorescent proteins, the variants of wild type GFP with improved photophysical properties have been engineered to cover the blue to yellow spectral regions as well as the monomeric FPs that originated from other organisms have been exploited to emit in the yellow-orange to far-red regions of the visible light spectrum\cite{Day2009}. In additional to those conventional FP variants, the photoactivatable FPs emerge as the powerful marker tools for live-cell imaging in complicated experiments. Through the light irradiation at specific wavelengths, photoconvertible FPs irreversibly shift the emission wavelength or start to emit. Photoswitchable FPs can change repeatedly between the fluorescence off and on state\cite{Nienhaus2014}. 
+
+When selecting the optimal FPs for purposes of the respective experiments, it’s essential to consider the properties of FPs, such as brightness, photostability, expression efficiency, oligomerization, toxicity, environmental sensitivity and multiple labeling\cite{Shaner2005}. Research has shown that FPs with shorter maturation time are beneficial to accurately monitor the rapid biological processes\cite{Balleza2018}.
+
+\section[]{Single-cell RNA Sequencing}
+
+For a decade, scRNA-seq technology was broadly applied to explore the physiology and internal gene expression pattern of eukaryotic cells in a precise resolution manner. However, reports of applications in prokaryotic cell were scarce up to now. It was partly because of the small amount of RNA, lacking of polyadenylated tails on mRNA and short half-life time of RNA\cite{Zhang2018}. To our knowledge, the first study of prokaryotic single cell transcriptome analysis was reported by Kang et al.\cite{Kang2011,Kang2015}. In their work, Burkholderia thailendensis was used for identifying the gene upregulation or downregulation in the presence of subinhibitory concentration of glyphosate as the two comparable conditions. Shortly after, there were amount of cases reported. For a classical procedure of scRNA-seq, three stages, single cell isolation, mRNA aggregation and amplification, highly affect the data quality and are described following.
+
+\subsection[]{Single Cell Isolation}
+
+Traditional micropipette is the most simple method utilized for single cell isolation. With this method, cells are each manually isolated into single tubes, it is labor-consuming and low throughput. Recently, high throughput technologies were introduced, liquid-handling robotics and well plate helped people analyze a thousand number cells in parallel. Flow cytometry was the most widely used method for sorting cells with specific phenotypes, such as cell size, morphology, fluorescence protein, fluorescence labeled antibodies and fluorescence dyes. When integrated with liquid-handling robotics, it was easy to identify and sort cells with a sort of different phenotypes simultaneously in a high throughput manner. However, cells in cytometry were often suffered with physical stresses, such as fluidic pressure, laser beam, voltage fields, which would significantly alter the cells physical states. An alternative is using microfluidic droplets which were suspended in carrier oil. Different from the traditional valve-based chips\cite{Klein2015} whose throughput was limited by the number of reaction chamber, this chip could generate thousands of indexed droplets containing single cell for RNA-seq\cite{Klein2015}.
+
+\subsection[]{mRNA Aggregation}
+As scientists focus on the quantities of mRNA that compose only about 90 \% of whole transcriptome, it is important to aggregate the mRNA before sequencing. Unfortunately, prokaryotic microbes do not have polyadenylated tails in mRNA, it means that using oligo-dT primers as the first cDNA synthesis step like eukaryotic cells does not work in prokaryotic cells. If not enrich the mRNA in whole transcripts, it would lead a low coverage of the target mRNA when acquire same data size as the enriched. As far as we know, there are two methods to remove unwanted RNA. As reported by Kang et al.\cite{Kang2011}, an optional step, treating samples with 5’ phosphate dependent exonuclease was carried out to remove rRNA and tRNA before reverse transcription. In addition, a commercialized method which was developed by NuGEN Technologies called AnyDeplete could deplete targeted RNA contain specific sequence after first round cDNA amplification via customized primers, and this method is suitable for depleting prokaryotic rRNA and tRNA, theoretically.
+
+\subsection[]{Amplification Methods of cDNA}
+
+Traditional exponential cDNA amplification methods are criticized for its bias of specific sequences. Linear amplification methods alleviate this problem in some extent. Here, we would describe three linear cDNA amplification methods, Rolling circle amplification(RCA), Single primer isothermal amplification(Ribo-SPIA). RCA was firstly developed to mutation detection\cite{Lizardi1998}. Kang et al.\cite{Kang2011} modified this method for compatibility of cDNA amplification. In brief, after lysis step and mRNA aggregation step, cDNA was synthesized via MMLV reverse transcriptase which was initialized by DNA random hexamers. Thereafter, cDNA was circularized and amplified via j29 DNA polymerase in a multiple displacement manner. Ribo-SPIA is another linear amplification method was widely used\cite{Kurn2005, Wang2015, Chen2017}. This is a commercial method for linear amplifying mRNA via DNA/RNA chimeric primers and compatible to both eukaryon and prokaryote. There are two different primers for eukaryon and prokaryote, respectively. The primers have a 3’ DNA portion that hybridizes to either the polyadenylated tails or random sequences. \emph{In vitro} transcription (IVT) is an effective method to amplify mRNA via T7 RNA polymerase linearly for a secondary reverse transcription\cite{Baugh2001}.
+
+\section[]{Microfluidics as a Universal Platform}
+
+Based on the theory of lab-on-chip and the development of technologies especially soft-lithography\cite{Unger2000}, microfluidics is used more and more widely in biological research. Recently, there is a trend to apply microfluidics as a powerful tools in bacterial single-cell analysis. 
+
+There are mainly three kinds of design on microfluidics, which are "chamber-like chip", "mother-machine-like chip" and "droplet-based chip". The former two kinds are similar in use: culturing cells in a mico-sclae space in long term as a chemostat or turbidostat. These microfluidics are always coupled with time-lapse microscopy and image analysis technologies for observation and quantification. The droplet-based chip is often used in single-cell omics analysis for it could reduce contamination in sample handing. 
+
+Nowadays, soft-lithography are widely used in labs. The formation of a microfluidic chip usually contains the follow steps\cite{Ferry2011}: Design and print the mask; Pattern the the mold by the mask using photoresist; Fabricate the chip pouring PDMS on the mold.
+
+\subsection[]{Chamber-like chips}
+Chamber-like chips contain several identical units in which cell were cultured using constantly updated fresh media. The Elf group develop a the typical chamber-like chip combined with single-molecule fluorescence microscopy and automated image analysis to study dynamics of gene expression in \textit{E. coli}i\cite{Ullman2013}. And then, the same microfluidic chip can be used to reveal that free ribosomal subunits are not excluded from the \textit{E. coli} nucleoid\cite{Sanamrad2014}. It shows the ability in single-particle tracking. The chamber-like chip from Elf group also used to study cell cycle and cell size contol in bacteria on single-cell level\cite{Campos2014,Wallden2016}. 
+
+The Walkmoto group propose a empirical growth law that constrains the maximal growth rate of \textit{E. coli} with analyzing the data from a more narrower chamber-like chip\cite{Hashimoto2016}. 
+
+\subsection[]{Mother-machine-like chips}
+The main methodology of mother-machine-like chips is geometrically constrain the cells to divide in a line within a single focal plane, which developed by Weitz group for yeast cells culture\cite{Rowat2009}. The Jun group designed a microfluidic device which was called "mother machine" to follow robust growth of \textit{E. coli} cells by numbers of generations. And by this kind of chip they find growth is decoupled from cell death\cite{Wang2010}. They conclude it as a protocol with a few of years' experience\cite{Taheri-Araghi2016}. Mother machine-like chip is widely used in studying bacterial physiology on single-cell level such as gene expression\cite{Young2012,Tanouchi2015}, evolution\cite{VanHouten2018}, cell cycle\cite{Norman2013,Marco2014} and cell size\cite{Tanouchi2015,Taheri-Araghi2015,Sauls2016}. Reseachers acquire much clear data with high quanlity on single-cell level with mother machine\cite{Tanouchi2017}. 
+
+“Chamber-like-chip" and "mother machine" are both channel-based microfluidics. While the latter is stricter on the size for its single-cell channel for bacteria must be very thin. Hence, it askes for mask as well as mold with high precision, which is technology-dependent and high-cost.
+
+\subsection[]{Droplet-based chips}
+
+To manipulate liquid with volumes ranging from pico-liter to micro-liter individually, researchers are able to generate droplet with special structures\cite{Collins2015}. Under a defined design of microfluidics, flow rate can be tuned as an input parameter to achieve different throughtput. And for many biological analysis, water-in-oil droplet is very common due to solubility. Droplet is a perfect environment for bacterial communication no better in time and quantity dimension\cite{Boedicker2009,Weitz2014,Jeong2015}. Drople-based chip can also take on directed evolution\cite{Agresti2010} and even work as a cell-free platform\cite{Hansen2016}. Lately, he droplet-based chips show powerful potential in single-cell omics analysis for the high-throughtput and reducing contamination\cite{Macosko2015,Zilionis2017,Kang2018}. 
+
+\section[]{Applications in Systems and Synthetic Biology}
+\subsection[]{Noise in Gene Expression}
+
+Because of random walks of molecules, such as stochastic disaggregation and rebinding among protein and DNA, it is a
+noisy environment in cell. Scientists have been seeking for originations of noise for recent two decades. To dissect the noise, precisely counting the number of molecules interested is an important task. Using fluorescence protein fused with functional protein or its identity, we can obtain the distribution of these target molecules in cells. Elowitz et al.\cite{Elowitz2002} expressed two different fluorescence proteins, cyan fluorescence protein (\textit{cfp}) and yellow fluorescence protein (\textit{cfp}), and measured their expression level in single cell level via time-lapse fluorescence microscope, to characterize intrinsic noise and extrinsic noise those drove from biochemical process of gene expression and other genetic regulation components, respectively. Flow cytometry was also used to characterize the gene expression distribution of isogenic population\cite{Shapiro2006}. Taniguchi et al.\cite{Taniguchi2010} systematically scanned the protein and mRNA numbers in individual cells with the help of YFP fusion library and mRNA in situ hybridization and found that almost all protein distributions could use the gamma distribution to depict. Coupled with genetic modification methods\cite{Jones2014} and single molecule assay in vitro\cite{Chong2014}, more details of stochastic expression mechanisms were unraveled now.
+
+\subsection[]{Emergence of Gene Circuits}
+
+Heterogeneity of the isogenic population is also caused by the emergence of the interaction between genetic parts. The
+none-or-all(bistable) response is one of the most classical phenomena and a basic regulation manner in nature—lactose
+utilization in \textit{E. coli}, progeny switch of l bacteriophage, competence for genetic transformation of \textit{Bacillus subtilis}, to name a few. By heterogeneous expression of fluorescence protein and image based quantification method, Ozbudak et al.\cite{Ozbudak2004} showed how the hysteretic response converts the bistable response to a graded response. Moreover, many temporal responses are too elusive to capture in a batch culture. When the SOS genetic network which is response for DNA damage repair is activated, a serials of gene expression fluctuations are evoked, however, it is hard to reveal profile of this phenomenon in population level, because its amplitude is dependent on the extent of DNA damage and it is impossible to make cells have a same extent of DNA damage simultaneously, fortunately, time lapse fluorescence microscopy in agar pad can bypass this problem by measuring individual cells continuously\cite{Friedman2005}. Bacteria chemotaxis is a comprehensive bioprocess which refer from genetic regulations in single cell level to collective behaviors in population level, and has been studying as a canonical model in systems biology, measuring cell tumble bias by fixing flagellum of \textit{E. coli} on a microscope slide and the concentration of YFP fused protein, CheY-YFP, which is induced by IPTG, simultaneously, a steep response curve of CheY-P versus tumble bias was revealed\cite{Cluzel2000}. Microfluidic channels whose width is fit to that of a rod-shaped bacteria appropriately can provide a convenience for tracking cell linages and sustaining a stable circumstance for a long time cultivation. Measuring genetically modified B. subtilis in this microfluidic device, Norman et al.\cite{Norman2013} revealed that a simple genetic circuit containing three genes confers cells a tight timing response ability allowing cells to ’cooperate’.
+
+In synthetic biology, one of major field is about parts and circuits\cite{Cameron2014}. Mining new parts and testing circuits that researchers construct are basic work for understanding how they work and applying them in practice.
+While with time going by, more and more people realize that the quality of data sometimes is uneven due to
+intrinsic complexity of biological system and the fluctuation of the culture.
+
+To solve the former problem, researchers try to use parts with modularity\cite{Moon2012} and construct circuits with
+orthogonality contain simple logic gates\cite{Wang2011}. Nielsen et al.\cite{Nielsen2014} constructed a set of NOT gates and synthetic promoters repressed by corresponding sgRNAs which hardly exhibit crosstalk between each other. They did this work in E. coli and mainly used fluorescent proteins (YFP and RFP) as output based on flow cytometry
+analysis.
+
+For the later problem, the core methodology is try to keep a steady cultivation environment for cells, and microfluidic chips are used more and more widely\cite{Ferry2011}. Stricker et al.\cite{Stricker2008} study synthetic gene oscillators in E. coli on a microfluidic platform coupled with fluorescence microscopy. In their research, single-cell fluorescence oscillations can be confirmed and observed. The oscillations are fast, robust and tunable by precise control of microfluidic system. Moreover, they performed a very simple oscillator without positive feedback loop. It's essential to maintain the uniform environment for the solid data which matched their model.
+
+Kim et al.\cite{Kim2008} cultured bacterium  individually in wells of the microfluidic device at a density of ~500-1000 live cells/well. They tested a synthetic community comprising three kinds of bacterium. And the results showed that microscale spatial structure plays an important role in coexistence. Hence, microscale bacteria population seem to be the least unit for studies on co-culture systems but single cell. There is also a synthetic predator–prey ecosystem constructed by Balagaddé et al.\cite{Balagadde2008}. Microscale cultivation is not complicated in technology, and most single-cell level co-culture is about mammalian cells\cite{Frimat2011,Hong2012}. 
+
+\subsection[]{Growth and Mutation}
+
+Channel based microfluidics, especially mother machine, was widely used to monitor cell phenotype, such as cell size, division events and gene expression. The dead-end channel simplifies the cell lineage tracking task, observing hundredsof generation cells in trenches, Wang et al.\cite{Wang2010} showed that cell division is robust and independent from cell death. Using DnaQ-Ypet\cite{Sherratt2010} —– yellow fluorescence labeled DNA polymerase III — the replisomes in individual cells can be visualized, combining with the time lapse contrast microscope, Wallden et al.\cite{Wallden2016a} found that initiation of DNA replication is triggered when cell volume per chromosome reach to a constant value. Highly tailored apparatus even can control single cell gene expression online, Chait et al.\cite{Chait2017} established a platform which contain a customized LCD projector coupled with microscope, light sensitive cells growth in MoMA machine, fluorescence microscopy captured the gene expression level of individual cells, computer algorithm analyzed these data and control the projector give light stimuli to each channels relieving the expression deviations from defined expression patterns, automatically, thus an individual closed-loop control was achieved.
+
+Long time tracking the gene mutation events can provide informative hidden messages about adaptation and evolution. Resembling to replisomes visualization, a fusion of YFP with MutL mismatch repair protein can be used to track DNA mismatch events in MoMA machine as a high through-put manner, with the cell division events, mutation dynamics of different cell strains are profiled. Robert et al.\cite{Robert2018} tracked thousands of generations and about 20, 000 mutation events, estimated the distribution of fitness effects. Their approach is a powerful tool for quantifying mutation properties. For loading cells into channels conveniently, the height of channels is higher than cell slightly, but it leads too hard to focus which would influence the precision of measurement because cells float up or down continuously around the focal plane. Uphoff et al.\cite{Robert2018a} designed a kind of microfluidic chips in which upper channel which is injected air can compress the imaging channels in at a high air pressure state, thus cells can be immobilized on slide, the resolution of single molecular imaging is improved effectively. Studying the DNA repair process via this method, they discovered that the DNA damage repair protein, Ada, which only expressed about one molecule when DNA damages do not happen, would segregate to one of daughter cells randomly, it incurs the disrepair of DNA damages in the subpopulation lacking of Ada, which is a new mechanism of error-prone DNA repair.
+
+Although poor precision and reproducibility of single cell RNA-sequencing in prokaryotic cells, this method is ingenious in some scenarios. Intercellular bacterial pathogens, such as Salmonella entrica, will exhibit highly heterogeneity in physiology after infected into host cell which have a major consequences for the infection outcome, and to know how the pathogens change their gene expression patterns and how the host and pathogen interact mutually may open up a new ways of treatment\cite{Avital2017,Saliba2016}. Avital et al.\cite{Avital2017} achieved mapping the gene regulatory pattern of intercellular pathogen Salmonella typhimurium, with transcriptomes of host and pathogen being captured simultaneously, found three different states of pathogens in a linear progression.
+
+\section[]{Discussion}
+
+For a long time, people study bacteria through macroscale cultivation commonly using flask or even larger containers. Much solid and valuable data came out and helped researchers to gain the general rules about bacterial physiology especially growth and production\cite{Monod1949,Zwietering1990,Kargi2009}. These rules were mostly empirical when first came out, because some intrinsic laws may be hided by large population which cannot satisfy quantitative biologists. Scott et al.\cite{Scott2010} summarized the data and proposed bacterial growth laws taking 5 mL as the least culture unit. Even in a 96-well plate, the data that people collect is a form of population performance. If one wants to get  more "individual" and "inseparable" data, he/she must acquire data from each single cell.
+
+Actually, one of the single-cell technologies --- flow cytometry --- came out very early\cite{Fulwyler1965}. This high-throughput and fast really helpful. However, it's not suitable for temporal observation which is often dependent on the time-lapse microscopy. Bacterium grow no matter on agar pad\cite{Young2012} or in tailor-made microfluidic platforms\cite{Wang2010,Moffitt2012} can be studied at single-cell level with image analysis technologies. As for intracellular behaviors, fluorescent probes is a powerful tools to give assistance to studies\cite{Balleza2018}.
+
+People usually regard they are all identical to each other when study bacterium on population level. However, heterogeneity in bacteria is also general in the real world not only genotype heterogeneity\cite{Gurjav2016} but phenotypic heterogeneity\cite{Ackermann2015} as well. Single-cell analysis technologies are still potential, such as single-cell transcriptome sequence\cite{Zhang2018}. For the foreseeable future, single-cell analysis on bacteria will be more and more convenient and universal as the development of the technologies.
+
+\bibliography{sample}
+
+
+%\section*{Acknowledgements (not compulsory)}
+
+
+\section*{Author contributions statement}
+
+Pan M. Chu: Introduction, single-cell RNA sequencing, Application
+
+Zhixin Ma: Microfluidics, Application
+
+Yingtong SU: Fluorescent probes
+
+
+%\section*{Additional information}
+
+
+
+\end{document}
