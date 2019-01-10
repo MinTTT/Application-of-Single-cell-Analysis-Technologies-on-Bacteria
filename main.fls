@@ -1,8 +1,8 @@
-PWD c:/Users/ThinkPad/Google Drive/Research/paper reading/Single Cell/Application of Single-cell Analysis Technologies on Bacteria
+PWD c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/ThinkPad/Google Drive/Research/paper reading/Single Cell/Application of Single-cell Analysis Technologies on Bacteria/main.tex
+INPUT c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria/main.tex
 OUTPUT main.log
 INPUT wlscirep.cls
 INPUT wlscirep.cls

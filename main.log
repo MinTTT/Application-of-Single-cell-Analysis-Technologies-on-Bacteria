@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.12)  10 JAN 2019 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.11.12)  10 JAN 2019 20:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/ThinkPad/Google Drive/Research/paper reading/Single Cell/Application of Single-cell Analysis Technologies on Bacteria/main.tex"
-(c:/Users/ThinkPad/Google Drive/Research/paper reading/Single Cell/Application of Single-cell Analysis Technologies on Bacteria/main.tex
+**"c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria/main.tex"
+(c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria/main.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./wlscirep.cls
@@ -627,28 +627,28 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
  [6] [7] [8]) [9] 
 AED: lastpage setting LastPage
 [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A6D5475AEE4704D2BED8D6222355A22A;890.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
+(rerunfilecheck)             Checksum: 6431333EAE29F1843B5679F0A93071C4;840.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
  ) 
 Here is how much of TeX's memory you used:
- 18836 strings out of 492649
- 360191 string characters out of 6133383
+ 18834 strings out of 492649
+ 360041 string characters out of 6133383
  513153 words of memory out of 5000000
- 22126 multiletter control sequences out of 15000+600000
+ 22125 multiletter control sequences out of 15000+600000
  73260 words of font info for 258 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,77p,2284b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,12n,77p,2244b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 126326 bytes).
+Output written on main.pdf (10 pages, 126227 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 481 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
- 45217 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 499 PDF objects out of 1000 (max. 8388607)
+ 476 compressed objects within 5 object streams
+ 120 named destinations out of 1000 (max. 500000)
+ 45209 words of extra memory for PDF output out of 51595 (max. 10000000)
 
