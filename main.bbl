@@ -1,0 +1,819 @@
+\begin{thebibliography}{10}
+\urlstyle{rm}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{DOI: }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Arkin:1998b4f}
+\bibinfo{author}{Arkin, A.}, \bibinfo{author}{Ross, J.} \&
+  \bibinfo{author}{McAdams, H.~H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Stochastic kinetic analysis of
+  developmental pathway bifurcation in phage $\lambda$-infected
+  \emph{Escherichia coli} cells}}}.
+\newblock {\emph{\JournalTitle{Genetics}}} \textbf{\bibinfo{volume}{149}},
+  \bibinfo{pages}{1633--1648} (\bibinfo{year}{1998}).
+
+\bibitem{Ozbudak:2002b4f}
+\bibinfo{author}{Ozbudak, E.~M.}, \bibinfo{author}{Thattai, M.},
+  \bibinfo{author}{Kurtser, I.}, \bibinfo{author}{Grossman, A.~D.} \&
+  \bibinfo{author}{van Oudenaarden, A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Regulation of noise in the
+  expression of a single gene.}}}
+\newblock {\emph{\JournalTitle{Nature genetics}}}
+  \textbf{\bibinfo{volume}{31}}, \bibinfo{pages}{69--73},
+  \doiprefix\url{10.1038/ng869} (\bibinfo{year}{2002}).
+
+\bibitem{Ozbudak:2004b4f}
+\bibinfo{author}{Ozbudak, E.~M.}, \bibinfo{author}{Thattal, M.},
+  \bibinfo{author}{Lim, H.~H.}, \bibinfo{author}{Shraiman, B.~I.} \&
+  \bibinfo{author}{{Van Oudenaarden}, A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Multistability in the lactose
+  utilization network of Escherichia coli}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{427}},
+  \bibinfo{pages}{737--740}, \doiprefix\url{10.1038/nature02298}
+  (\bibinfo{year}{2004}).
+
+\bibitem{Elowitz2002}
+\bibinfo{author}{Elowitz, M.~B.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Stochastic Gene Expression in a
+  Single Cell}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{297}},
+  \bibinfo{pages}{1183--1186}, \doiprefix\url{10.1126/science.1070919}
+  (\bibinfo{year}{2002}).
+
+\bibitem{Wang2010}
+\bibinfo{author}{Wang, P.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Robust growth of escherichia
+  coli}}}.
+\newblock {\emph{\JournalTitle{Current Biology}}}
+  \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{1099--1103},
+  \doiprefix\url{10.1016/j.cub.2010.04.045} (\bibinfo{year}{2010}).
+
+\bibitem{Tanouchi2015}
+\bibinfo{author}{Tanouchi, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A noisy linear map underlies
+  oscillations in cell size and gene expression in bacteria}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{523}},
+  \bibinfo{pages}{357--359}, \doiprefix\url{10.1080/00223131.2015.1076746}
+  (\bibinfo{year}{2015}).
+\newblock \eprint{arXiv:1507.02142v2}.
+
+\bibitem{Alon1998}
+\bibinfo{author}{Alon, U.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Response regulator output in
+  bacterial chemotaxis}}}.
+\newblock {\emph{\JournalTitle{EMBO Journal}}} \textbf{\bibinfo{volume}{17}},
+  \bibinfo{pages}{4238--4248}, \doiprefix\url{10.1093/emboj/17.15.4238}
+  (\bibinfo{year}{1998}).
+
+\bibitem{Ishiura1998}
+\bibinfo{author}{Ishiura, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Expression of a gene cluster
+  kaiABC as a circadian feedback process in cyanobacteria}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{281}},
+  \bibinfo{pages}{1519--1523}, \doiprefix\url{10.1126/science.281.5382.1519}
+  (\bibinfo{year}{1998}).
+
+\bibitem{Elowitz2000}
+\bibinfo{author}{Elowitz, M.~B.} \& \bibinfo{author}{Leibler, S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A synthetic oscillatory network of
+  transcriptional regulators}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{403}},
+  \bibinfo{pages}{335--338}, \doiprefix\url{10.1038/35002125}
+  (\bibinfo{year}{2000}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Wallden2016}
+\bibinfo{author}{Wallden, M.}, \bibinfo{author}{Fange, D.},
+  \bibinfo{author}{Lundius, E.~G.}, \bibinfo{author}{Baltekin, {\"{O}}.} \&
+  \bibinfo{author}{Elf, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{The Synchronization of Replication
+  and Division Cycles in Individual E. coli Cells}}}.
+\newblock {\emph{\JournalTitle{Cell}}} \textbf{\bibinfo{volume}{166}},
+  \bibinfo{pages}{729--739}, \doiprefix\url{10.1016/j.cell.2016.06.052}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Amir:2018b4f}
+\bibinfo{author}{Amir, A.} \& \bibinfo{author}{Balaban, N.~Q.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Learning from Noise: How Observing
+  Stochasticity May Aid Microbiology}}}.
+\newblock {\emph{\JournalTitle{Trends in Microbiology}}}
+  \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{376--385},
+  \doiprefix\url{10.1016/j.tim.2018.02.003} (\bibinfo{year}{2018}).
+
+\bibitem{Brehm-Stecher2004}
+\bibinfo{author}{Brehm-Stecher, B.~F.} \& \bibinfo{author}{Johnson, E.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single-Cell Microbiology: Tools,
+  Technologies, and Applications}}}.
+\newblock {\emph{\JournalTitle{Microbiology and Molecular Biology Reviews}}}
+  \textbf{\bibinfo{volume}{68}}, \bibinfo{pages}{538--559},
+  \doiprefix\url{10.1128/MMBR.68.3.538-559.2004} (\bibinfo{year}{2004}).
+
+\bibitem{Stender2013}
+\bibinfo{author}{Stender, A.~S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single cell optical imaging and
+  spectroscopy}}}.
+\newblock {\emph{\JournalTitle{Chemical Reviews}}}
+  \textbf{\bibinfo{volume}{113}}, \bibinfo{pages}{2469--2527},
+  \doiprefix\url{10.1021/cr300336e} (\bibinfo{year}{2013}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Moter2000}
+\bibinfo{author}{Moter, A.} \& \bibinfo{author}{G{\"{o}}bel, U.~B.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Fluorescence in situ hybridization
+  (FISH) for direct visualization of microorganisms}}}.
+\newblock {\emph{\JournalTitle{Journal of Microbiological Methods}}}
+  \textbf{\bibinfo{volume}{41}}, \bibinfo{pages}{85--112},
+  \doiprefix\url{10.1016/S0167-7012(00)00152-4} (\bibinfo{year}{2000}).
+
+\bibitem{DeLong1989}
+\bibinfo{author}{DeLong, E.~F.}, \bibinfo{author}{Wickham, G.~S.} \&
+  \bibinfo{author}{Pace, N.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Phylogenetic stains: Ribosomal
+  RNA-based probes for the identification of single cells}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{243}},
+  \bibinfo{pages}{1360--1363}, \doiprefix\url{10.1126/science.2466341}
+  (\bibinfo{year}{1989}).
+
+\bibitem{Manz1993}
+\bibinfo{author}{Manz, W.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{In situ identification of bacteria
+  in drinking water and adjoining biofilms by hybridization with 16S and 23S
+  rRNA-directed fluorescent oligonucleotide probes.}}}
+\newblock {\emph{\JournalTitle{Applied and environmental microbiology}}}
+  \textbf{\bibinfo{volume}{59}}, \bibinfo{pages}{2293--8}
+  (\bibinfo{year}{1993}).
+
+\bibitem{Amann1995}
+\bibinfo{author}{Amann, R.~I.}, \bibinfo{author}{Ludwig, W.} \&
+  \bibinfo{author}{Schleifer, K.~H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Phylogenetic identification and in
+  situ detection of individual microbial cells without cultivation.}}}
+\newblock {\emph{\JournalTitle{Microbiological reviews}}}
+  \textbf{\bibinfo{volume}{59}}, \bibinfo{pages}{143--69}
+  (\bibinfo{year}{1995}).
+
+\bibitem{Lischewski1996}
+\bibinfo{author}{Lischewski, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Specific detection of Candida
+  albicans and Candida tropicalis by fluorescent in situ hybridization with an
+  18S rRNA-targeted oligonucleotide probe}}}.
+\newblock {\emph{\JournalTitle{Microbiology}}} \textbf{\bibinfo{volume}{142}},
+  \bibinfo{pages}{2731--2740}, \doiprefix\url{10.1099/13500872-142-10-2731}
+  (\bibinfo{year}{1996}).
+
+\bibitem{Wagner1998}
+\bibinfo{author}{Wagner, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{In situ detection of a virulence
+  factor mRNA and 16S rRNA in Listeria monocytogenes}}}.
+\newblock {\emph{\JournalTitle{FEMS Microbiology Letters}}}
+  \textbf{\bibinfo{volume}{160}}, \bibinfo{pages}{159--168},
+  \doiprefix\url{10.1016/S0378-1097(97)00570-3} (\bibinfo{year}{1998}).
+
+\bibitem{Zwirglmaier2004}
+\bibinfo{author}{Zwirglmaier, K.}, \bibinfo{author}{Ludwig, W.} \&
+  \bibinfo{author}{Schleifer, K.~H.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Recognition of individual genes in
+  a single bacterial cell by fluorescence in situ hybridization - RING-FISH}}}.
+\newblock {\emph{\JournalTitle{Molecular Microbiology}}}
+  \textbf{\bibinfo{volume}{51}}, \bibinfo{pages}{89--96},
+  \doiprefix\url{10.1046/j.1365-2958.2003.03834.x} (\bibinfo{year}{2004}).
+
+\bibitem{Wallner1993}
+\bibinfo{author}{Wallner, G.}, \bibinfo{author}{Amann, R.} \&
+  \bibinfo{author}{Beisker, W.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Optimizing fluorescent in situ
+  hybridization with rRNA‐targeted oligonucleotide probes for flow cytometric
+  identification of microorganisms}}}.
+\newblock {\emph{\JournalTitle{Cytometry}}} \textbf{\bibinfo{volume}{14}},
+  \bibinfo{pages}{136--143}, \doiprefix\url{10.1002/cyto.990140205}
+  (\bibinfo{year}{1993}).
+
+\bibitem{SHIMOMURA1962}
+\bibinfo{author}{SHIMOMURA, O.}, \bibinfo{author}{JOHNSON, F.~H.} \&
+  \bibinfo{author}{SAIGA, Y.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Extraction, purification and
+  properties of aequorin, a bioluminescent}}}.
+\newblock {\emph{\JournalTitle{Journal of cellular and comparative
+  physiology}}} \textbf{\bibinfo{volume}{59}}, \bibinfo{pages}{223--239},
+  \doiprefix\url{10.1002/jcp.1030590302} (\bibinfo{year}{1962}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Stearns1995}
+\bibinfo{author}{Stearns, T.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Green Flourescent Protein: The
+  green revolution}}}.
+\newblock {\emph{\JournalTitle{Current Biology}}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{262--264}, \doiprefix\url{10.1016/S0960-9822(95)00056-X}
+  (\bibinfo{year}{1995}).
+
+\bibitem{Day2009}
+\bibinfo{author}{Day, R.~N.} \& \bibinfo{author}{Davidson, M.~W.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{The fluorescent protein palette:
+  Tools for cellular imaging}}}.
+\newblock {\emph{\JournalTitle{Chemical Society Reviews}}}
+  \textbf{\bibinfo{volume}{38}}, \bibinfo{pages}{2887--2921},
+  \doiprefix\url{10.1039/b901966a} (\bibinfo{year}{2009}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Nienhaus2014}
+\bibinfo{author}{Nienhaus, K.} \& \bibinfo{author}{{Ulrich Nienhaus}, G.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Fluorescent proteins for live-cell
+  imaging with super-resolution}}}.
+\newblock {\emph{\JournalTitle{Chemical Society Reviews}}}
+  \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{1088--1106},
+  \doiprefix\url{10.1039/c3cs60171d} (\bibinfo{year}{2014}).
+
+\bibitem{Shaner2005}
+\bibinfo{author}{Shaner, N.~C.}, \bibinfo{author}{Steinbach, P.~A.} \&
+  \bibinfo{author}{Tsien, R.~Y.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A guide to choosing fluorescent
+  proteins}}}.
+\newblock {\emph{\JournalTitle{Nature Methods}}} \textbf{\bibinfo{volume}{2}},
+  \bibinfo{pages}{905--909}, \doiprefix\url{10.1038/nmeth819}
+  (\bibinfo{year}{2005}).
+\newblock \eprint{15334406}.
+
+\bibitem{Balleza2018}
+\bibinfo{author}{Balleza, E.}, \bibinfo{author}{Kim, J.~M.} \&
+  \bibinfo{author}{Cluzel, P.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Systematic characterization of
+  maturation time of fluorescent proteins in living cells}}}.
+\newblock {\emph{\JournalTitle{Nature Methods}}} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{47--51}, \doiprefix\url{10.1038/nmeth.4509}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Zhang2018}
+\bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Gao, J.}, \bibinfo{author}{Huang,
+  Y.} \& \bibinfo{author}{Wang, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Recent Developments in Single-Cell
+  RNA-Seq of Microorganisms}}}.
+\newblock {\emph{\JournalTitle{Biophysical Journal}}}
+  \textbf{\bibinfo{volume}{115}}, \bibinfo{pages}{173--180},
+  \doiprefix\url{10.1016/j.bpj.2018.06.008} (\bibinfo{year}{2018}).
+
+\bibitem{Kang2011}
+\bibinfo{author}{Kang, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Transcript amplification from
+  single bacterium for transcriptome analysis}}}.
+\newblock {\emph{\JournalTitle{Genome Research}}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{925--935},
+  \doiprefix\url{10.1101/gr.116103.110} (\bibinfo{year}{2011}).
+
+\bibitem{Kang2015}
+\bibinfo{author}{Kang, Y.}, \bibinfo{author}{McMillan, I.},
+  \bibinfo{author}{Norris, M.~H.} \& \bibinfo{author}{Hoang, T.~T.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single prokaryotic cell isolation
+  and total transcript amplification protocol for transcriptomic analysis}}}.
+\newblock {\emph{\JournalTitle{Nature Protocols}}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{974--984},
+  \doiprefix\url{10.1038/nprot.2015.058} (\bibinfo{year}{2015}).
+\newblock \eprint{15334406}.
+
+\bibitem{Klein2015}
+\bibinfo{author}{Klein, A.~M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Droplet Barcoding for Single-Cell
+  Transcriptomics Applied to Embryonic Stem Cells}}}.
+\newblock {\emph{\JournalTitle{Cell}}} \textbf{\bibinfo{volume}{161}},
+  \bibinfo{pages}{1187--1201}, \doiprefix\url{10.1016/j.cell.2015.04.044}
+  (\bibinfo{year}{2015}).
+\newblock \eprint{15334406}.
+
+\bibitem{Lizardi1998}
+\bibinfo{author}{Lizardi, P.~M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Mutation detection and
+  single-molecule counting using isothermal rolling-circle amplification}}}.
+\newblock {\emph{\JournalTitle{Nature Genetics}}}
+  \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{225--232},
+  \doiprefix\url{10.1038/898} (\bibinfo{year}{1998}).
+
+\bibitem{Kurn2005}
+\bibinfo{author}{Kurn, N.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Novel isothermal, linear nucleic
+  acid amplification systems for highly multiplexed applications}}}.
+\newblock {\emph{\JournalTitle{Clinical Chemistry}}}
+  \textbf{\bibinfo{volume}{51}}, \bibinfo{pages}{1973--1981},
+  \doiprefix\url{10.1373/clinchem.2005.053694} (\bibinfo{year}{2005}).
+
+\bibitem{Wang2015}
+\bibinfo{author}{Wang, J.}, \bibinfo{author}{Chen, L.}, \bibinfo{author}{Chen,
+  Z.} \& \bibinfo{author}{Zhang, W.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{RNA-seq based transcriptomic
+  analysis of single bacterial cells}}}.
+\newblock {\emph{\JournalTitle{Integrative Biology (United Kingdom)}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{1466--1476},
+  \doiprefix\url{10.1039/c5ib00191a} (\bibinfo{year}{2015}).
+
+\bibitem{Chen2017}
+\bibinfo{author}{Chen, Z.}, \bibinfo{author}{Chen, L.} \&
+  \bibinfo{author}{Zhang, W.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Tools for genomic and
+  transcriptomic analysis of microbes at single-cell level}}}.
+\newblock {\emph{\JournalTitle{Frontiers in Microbiology}}}
+  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{1--12},
+  \doiprefix\url{10.3389/fmicb.2017.01831} (\bibinfo{year}{2017}).
+
+\bibitem{Baugh2001}
+\bibinfo{author}{Baugh, L.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Quantitative analysis of mRNA
+  amplification by in vitro transcription}}}.
+\newblock {\emph{\JournalTitle{Nucleic Acids Research}}}
+  \textbf{\bibinfo{volume}{29}}, \bibinfo{pages}{29e--29},
+  \doiprefix\url{10.1093/nar/29.5.e29} (\bibinfo{year}{2001}).
+
+\bibitem{Unger2000}
+\bibinfo{author}{Unger, M.~A.}, \bibinfo{author}{Chou, H.~P.},
+  \bibinfo{author}{Thorsen, T.}, \bibinfo{author}{Scherer, A.} \&
+  \bibinfo{author}{Quake, S.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Monolithic microfabricated valves
+  and pumps by multilayer soft lithography}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{288}},
+  \bibinfo{pages}{113--116}, \doiprefix\url{10.1126/science.288.5463.113}
+  (\bibinfo{year}{2000}).
+
+\bibitem{Ferry2011}
+\bibinfo{author}{Ferry, M.}, \bibinfo{author}{Razinkov, I.} \&
+  \bibinfo{author}{Hasty, J.}
+\newblock \emph{\bibinfo{title}{{Microfluidics for Synthetic Biology}}}, vol.
+  \bibinfo{volume}{497} (\bibinfo{publisher}{Elsevier Inc.},
+  \bibinfo{year}{2011}), \bibinfo{edition}{1} edn.
+
+\bibitem{Ullman2013}
+\bibinfo{author}{Ullman, G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{High-throughput gene expression
+  analysis at the level of single proteins using a microfluidic turbidostat and
+  automated cell tracking}}}.
+\newblock {\emph{\JournalTitle{Philosophical Transactions of the Royal Society
+  B: Biological Sciences}}} \textbf{\bibinfo{volume}{368}},
+  \doiprefix\url{10.1098/rstb.2012.0025} (\bibinfo{year}{2013}).
+
+\bibitem{Sanamrad2014}
+\bibinfo{author}{Sanamrad, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single-particle tracking reveals
+  that free ribosomal subunits are not excluded from the Escherichia coli
+  nucleoid}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{111}}, \bibinfo{pages}{11413--11418},
+  \doiprefix\url{10.1073/pnas.1411558111} (\bibinfo{year}{2014}).
+\newblock \eprint{arXiv:1408.1149}.
+
+\bibitem{Campos2014}
+\bibinfo{author}{Campos, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A constant size extension drives
+  bacterial cell size homeostasis}}}.
+\newblock {\emph{\JournalTitle{Cell}}} \textbf{\bibinfo{volume}{159}},
+  \bibinfo{pages}{1433--1446}, \doiprefix\url{10.1016/j.cell.2014.11.022}
+  (\bibinfo{year}{2014}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Hashimoto2016}
+\bibinfo{author}{Hashimoto, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Noise-driven growth rate gain in
+  clonal cellular populations}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{113}}, \bibinfo{pages}{3251--3256},
+  \doiprefix\url{10.1073/pnas.1519412113} (\bibinfo{year}{2016}).
+
+\bibitem{Rowat2009}
+\bibinfo{author}{Rowat, A.~C.}, \bibinfo{author}{Bird, J.~C.},
+  \bibinfo{author}{Agresti, J.~J.}, \bibinfo{author}{Rando, O.~J.} \&
+  \bibinfo{author}{Weitz, D.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Tracking lineages of single cells
+  in lines using a microfluidic device}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{106}}, \bibinfo{pages}{18149--18154},
+  \doiprefix\url{10.1073/pnas.0903163106} (\bibinfo{year}{2009}).
+
+\bibitem{Taheri-Araghi2016}
+\bibinfo{author}{Taheri-Araghi, S.} \& \bibinfo{author}{Jun, S.}
+\newblock \emph{\bibinfo{title}{Single-Cell Cultivation in Microfluidic
+  Devices}}, \bibinfo{pages}{5--16} (\bibinfo{publisher}{Springer Berlin
+  Heidelberg}, \bibinfo{address}{Berlin, Heidelberg}, \bibinfo{year}{2016}).
+
+\bibitem{Young2012}
+\bibinfo{author}{Young, J.~W.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Measuring single-cell gene
+  expression dynamics in bacteria using fluorescence time-lapse microscopy}}}.
+\newblock {\emph{\JournalTitle{Nature Protocols}}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{80--88},
+  \doiprefix\url{10.1038/nprot.2011.432} (\bibinfo{year}{2012}).
+
+\bibitem{VanHouten2018}
+\bibinfo{author}{{Van Houten}, B.} \& \bibinfo{author}{Kad, N.~M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single-cell mutagenic responses
+  and cell death revealed in real time}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{115}}, \bibinfo{pages}{7168--7170},
+  \doiprefix\url{10.1073/pnas.1808986115} (\bibinfo{year}{2018}).
+
+\bibitem{Norman2013}
+\bibinfo{author}{Norman, T.~M.}, \bibinfo{author}{Lord, N.~D.},
+  \bibinfo{author}{Paulsson, J.} \& \bibinfo{author}{Losick, R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Memory and modularity in cell-fate
+  decision making}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{503}},
+  \bibinfo{pages}{481--486}, \doiprefix\url{10.1038/nature12804}
+  (\bibinfo{year}{2013}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Marco2014}
+\bibinfo{author}{{Matteo Osella}}, \bibinfo{author}{{Eileen Nugent}} \&
+  \bibinfo{author}{{Marco Cosentino Lagomarsino}}.
+\newblock \bibinfo{journal}{\bibinfo{title}{{Concerted control of Escherichia
+  coli cell division}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{111}}, \bibinfo{pages}{3431--3435},
+  \doiprefix\url{10.1073/pnas.1313715111} (\bibinfo{year}{2014}).
+
+\bibitem{Taheri-Araghi2015}
+\bibinfo{author}{Taheri-Araghi, S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Cell-size control and homeostasis
+  in bacteria}}}.
+\newblock {\emph{\JournalTitle{Current Biology}}}
+  \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{385--391},
+  \doiprefix\url{10.1016/j.cub.2014.12.009} (\bibinfo{year}{2015}).
+
+\bibitem{Sauls2016}
+\bibinfo{author}{Sauls, J.~T.}, \bibinfo{author}{Li, D.} \&
+  \bibinfo{author}{Jun, S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Adder and a coarse-grained
+  approach to cell size homeostasis in bacteria}}}.
+\newblock {\emph{\JournalTitle{Current Opinion in Cell Biology}}}
+  \textbf{\bibinfo{volume}{38}}, \bibinfo{pages}{38--44},
+  \doiprefix\url{10.1016/j.ceb.2016.02.004} (\bibinfo{year}{2016}).
+
+\bibitem{Tanouchi2017}
+\bibinfo{author}{Tanouchi, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Long-term growth data of
+  Escherichia coli at a single-cell level}}}.
+\newblock {\emph{\JournalTitle{Scientific Data}}} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{1--5}, \doiprefix\url{10.1038/sdata.2017.36}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Collins2015}
+\bibinfo{author}{Collins, D.~J.}, \bibinfo{author}{Neild, A.},
+  \bibinfo{author}{DeMello, A.}, \bibinfo{author}{Liu, A.~Q.} \&
+  \bibinfo{author}{Ai, Y.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{The Poisson distribution and
+  beyond: Methods for microfluidic droplet production and single cell
+  encapsulation}}}.
+\newblock {\emph{\JournalTitle{Lab on a Chip}}} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{3439--3459}, \doiprefix\url{10.1039/c5lc00614g}
+  (\bibinfo{year}{2015}).
+
+\bibitem{Boedicker2009}
+\bibinfo{author}{Boedicker, J.~Q.}, \bibinfo{author}{Vincent, M.~E.} \&
+  \bibinfo{author}{Ismagilov, R.~F.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Microfluidic confinement of single
+  cells of bacteria in small volumes initiates high-density behavior of quorum
+  sensing and growth and reveals its variability}}}.
+\newblock {\emph{\JournalTitle{Angewandte Chemie - International Edition}}}
+  \textbf{\bibinfo{volume}{48}}, \bibinfo{pages}{5908--5911},
+  \doiprefix\url{10.1002/anie.200901550} (\bibinfo{year}{2009}).
+
+\bibitem{Weitz2014}
+\bibinfo{author}{Weitz, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Communication and computation by
+  bacteria compartmentalized within microemulsion droplets}}}.
+\newblock {\emph{\JournalTitle{Journal of the American Chemical Society}}}
+  \textbf{\bibinfo{volume}{136}}, \bibinfo{pages}{72--75},
+  \doiprefix\url{10.1021/ja411132w} (\bibinfo{year}{2014}).
+
+\bibitem{Jeong2015}
+\bibinfo{author}{Jeong, H.~H.}, \bibinfo{author}{Jin, S.~H.},
+  \bibinfo{author}{Lee, B.~J.}, \bibinfo{author}{Kim, T.} \&
+  \bibinfo{author}{Lee, C.~S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Microfluidic static droplet array
+  for analyzing microbial communication on a population gradient}}}.
+\newblock {\emph{\JournalTitle{Lab on a Chip}}} \textbf{\bibinfo{volume}{15}},
+  \bibinfo{pages}{889--899}, \doiprefix\url{10.1039/c4lc01097c}
+  (\bibinfo{year}{2015}).
+
+\bibitem{Agresti2010}
+\bibinfo{author}{Agresti, J.~J.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Ultrahigh-throughput screening in
+  drop-based microfluidics for directed evolution}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{107}}, \bibinfo{pages}{4004--4009},
+  \doiprefix\url{10.1073/pnas.0910781107} (\bibinfo{year}{2010}).
+\newblock \eprint{15334406}.
+
+\bibitem{Hansen2016}
+\bibinfo{author}{Hansen, M.~M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Macromolecular crowding creates
+  heterogeneous environments of gene expression in picolitre droplets}}}.
+\newblock {\emph{\JournalTitle{Nature Nanotechnology}}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{191--197},
+  \doiprefix\url{10.1038/nnano.2015.243} (\bibinfo{year}{2016}).
+
+\bibitem{Macosko2015}
+\bibinfo{author}{Macosko, E.~Z.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Highly parallel genome-wide
+  expression profiling of individual cells using nanoliter droplets}}}.
+\newblock {\emph{\JournalTitle{Cell}}} \textbf{\bibinfo{volume}{161}},
+  \bibinfo{pages}{1202--1214}, \doiprefix\url{10.1016/j.cell.2015.05.002}
+  (\bibinfo{year}{2015}).
+\newblock \eprint{15334406}.
+
+\bibitem{Zilionis2017}
+\bibinfo{author}{Zilionis, R.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single-cell barcoding and
+  sequencing using droplet microfluidics}}}.
+\newblock {\emph{\JournalTitle{Nature Protocols}}}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{44--73},
+  \doiprefix\url{10.1038/nprot.2016.154} (\bibinfo{year}{2017}).
+
+\bibitem{Kang2018}
+\bibinfo{author}{Kang, H.~M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Multiplexed droplet single-cell
+  RNA-sequencing using natural genetic variation}}}.
+\newblock {\emph{\JournalTitle{Nature Biotechnology}}}
+  \textbf{\bibinfo{volume}{36}}, \bibinfo{pages}{89--94},
+  \doiprefix\url{10.1038/nbt.4042} (\bibinfo{year}{2018}).
+
+\bibitem{Shapiro2006}
+\bibinfo{author}{Shapiro, A.~C.} \& \bibinfo{author}{Rohmann, S.~O.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Mapping changes in submerged
+  aquatic vegetation using Landsat imagery and benthic habitat data: Coral reef
+  ecosystem monitoring in Vieques Sound between 1985 and 2000}}}.
+\newblock {\emph{\JournalTitle{Bulletin of Marine Science}}}
+  \textbf{\bibinfo{volume}{79}}, \bibinfo{pages}{375--388},
+  \doiprefix\url{10.1038/ng869} (\bibinfo{year}{2006}).
+
+\bibitem{Taniguchi2010}
+\bibinfo{author}{Taniguchi, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Quantifying E. coli Proteome and
+  Transcriptome with Single-Molecule Sensitivity in Single Cells}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{329}},
+  \bibinfo{pages}{533--538}, \doiprefix\url{10.1126/science.1188308}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Jones2014}
+\bibinfo{author}{Jones, D.~L.}, \bibinfo{author}{Brewster, R.~C.} \&
+  \bibinfo{author}{Phillips, R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Promoter architecture dictates
+  cell-to-cell variability in gene expression}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{346}},
+  \bibinfo{pages}{1533--1536}, \doiprefix\url{10.1126/science.1255301}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Chong2014}
+\bibinfo{author}{Chong, S.}, \bibinfo{author}{Chen, C.}, \bibinfo{author}{Ge,
+  H.} \& \bibinfo{author}{Xie, X.~S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Mechanism of Transcriptional
+  Bursting in Bacteria}}}.
+\newblock {\emph{\JournalTitle{Cell}}} \textbf{\bibinfo{volume}{158}},
+  \bibinfo{pages}{314--326}, \doiprefix\url{10.1016/j.cell.2014.05.038}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Ozbudak2004}
+\bibinfo{author}{Ozbudak, E.~M.}, \bibinfo{author}{Thattai, M.},
+  \bibinfo{author}{Lim, H.~N.}, \bibinfo{author}{Shraiman, B.~I.} \&
+  \bibinfo{author}{van Oudenaarden, A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Multistability in the lactose
+  utilization network of Escherichia coli}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{427}},
+  \bibinfo{pages}{737--740}, \doiprefix\url{10.1038/nature02298}
+  (\bibinfo{year}{2004}).
+
+\bibitem{Friedman2005}
+\bibinfo{author}{Friedman, N.}, \bibinfo{author}{Vardi, S.},
+  \bibinfo{author}{Ronen, M.}, \bibinfo{author}{Alon, U.} \&
+  \bibinfo{author}{Stavans, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Precise Temporal Modulation in the
+  Response of the SOS DNA Repair Network in Individual Bacteria}}}.
+\newblock {\emph{\JournalTitle{PLoS Biology}}} \textbf{\bibinfo{volume}{3}},
+  \bibinfo{pages}{e238}, \doiprefix\url{10.1371/journal.pbio.0030238}
+  (\bibinfo{year}{2005}).
+
+\bibitem{Cluzel2000}
+\bibinfo{author}{Cluzel, P.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{An Ultrasensitive Bacterial Motor
+  Revealed by Monitoring Signaling Proteins in Single Cells}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{287}},
+  \bibinfo{pages}{1652--1655}, \doiprefix\url{10.1126/science.287.5458.1652}
+  (\bibinfo{year}{2000}).
+
+\bibitem{Cameron2014}
+\bibinfo{author}{Cameron, D.~E.}, \bibinfo{author}{Bashor, C.~J.} \&
+  \bibinfo{author}{Collins, J.~J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A brief history of synthetic
+  biology}}}.
+\newblock {\emph{\JournalTitle{Nature Reviews Microbiology}}}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{381--390},
+  \doiprefix\url{10.1038/nrmicro3239} (\bibinfo{year}{2014}).
+
+\bibitem{Moon2012}
+\bibinfo{author}{Moon, T.~S.}, \bibinfo{author}{Lou, C.},
+  \bibinfo{author}{Tamsir, A.}, \bibinfo{author}{Stanton, B.~C.} \&
+  \bibinfo{author}{Voigt, C.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Genetic programs constructed from
+  layered logic gates in single cells}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{491}},
+  \bibinfo{pages}{249--253}, \doiprefix\url{10.1038/nature11516}
+  (\bibinfo{year}{2012}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Wang2011}
+\bibinfo{author}{Wang, B.}, \bibinfo{author}{Kitney, R.~I.},
+  \bibinfo{author}{Joly, N.} \& \bibinfo{author}{Buck, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Engineering modular and orthogonal
+  genetic logic gates for robust digital-like synthetic biology}}}.
+\newblock {\emph{\JournalTitle{Nature Communications}}}
+  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{508},
+  \doiprefix\url{10.1038/ncomms1516} (\bibinfo{year}{2011}).
+\newblock \eprint{arXiv:1011.1669v3}.
+
+\bibitem{Nielsen2014}
+\bibinfo{author}{Nielsen, A.~A.} \& \bibinfo{author}{Voigt, C.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Multi-input CRISPR/Cas genetic
+  circuits that interface host regulatory networks}}}.
+\newblock {\emph{\JournalTitle{Molecular Systems Biology}}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{763--763},
+  \doiprefix\url{10.15252/msb.20145735} (\bibinfo{year}{2014}).
+\newblock \eprint{1701.00732}.
+
+\bibitem{Stricker2008}
+\bibinfo{author}{Stricker, J.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A fast, robust and tunable
+  synthetic gene oscillator}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{456}},
+  \bibinfo{pages}{516--519}, \doiprefix\url{10.1038/nature07389}
+  (\bibinfo{year}{2008}).
+\newblock \eprint{arXiv:1011.1669v3}.
+
+\bibitem{Kim2008}
+\bibinfo{author}{Kim, H.~J.}, \bibinfo{author}{Boedicker, J.~Q.},
+  \bibinfo{author}{Choi, J.~W.} \& \bibinfo{author}{Ismagilov, R.~F.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Defined spatial structure
+  stabilizes a synthetic multispecies bacterial community}}}.
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of
+  Sciences}}} \textbf{\bibinfo{volume}{105}}, \bibinfo{pages}{18188--18193},
+  \doiprefix\url{10.1073/pnas.0807935105} (\bibinfo{year}{2008}).
+\newblock \eprint{arXiv:1408.1149}.
+
+\bibitem{Balagadde2008}
+\bibinfo{author}{Balagadd{\'{e}}, F.~K.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A synthetic Escherichia coli
+  predator-prey ecosystem}}}.
+\newblock {\emph{\JournalTitle{Molecular Systems Biology}}}
+  \textbf{\bibinfo{volume}{4}}, \bibinfo{pages}{1--8},
+  \doiprefix\url{10.1038/msb.2008.24} (\bibinfo{year}{2008}).
+
+\bibitem{Frimat2011}
+\bibinfo{author}{Frimat, J.~P.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A microfluidic array with cellular
+  valving for single cell co-culture}}}.
+\newblock {\emph{\JournalTitle{Lab on a Chip}}} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{231--237}, \doiprefix\url{10.1039/c0lc00172d}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Hong2012}
+\bibinfo{author}{Hong, S.}, \bibinfo{author}{Pan, Q.} \& \bibinfo{author}{Lee,
+  L.~P.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single-cell level co-culture
+  platform for intercellular communication}}}.
+\newblock {\emph{\JournalTitle{Integrative Biology}}}
+  \textbf{\bibinfo{volume}{4}}, \bibinfo{pages}{374--380},
+  \doiprefix\url{10.1039/c2ib00166g} (\bibinfo{year}{2012}).
+
+\bibitem{Sherratt2010}
+\bibinfo{author}{Sherratt, D.}, \bibinfo{author}{Reyes-Lamothe, R.} \&
+  \bibinfo{author}{Leake, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Stoichiometry of Active DNA
+  Replication Machinery Within Living Escherichia Coli Cells}}}.
+\newblock {\emph{\JournalTitle{Biophysical Journal}}}
+  \textbf{\bibinfo{volume}{328}}, \bibinfo{pages}{498--502}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Wallden2016a}
+\bibinfo{author}{Wallden, M.}, \bibinfo{author}{Fange, D.},
+  \bibinfo{author}{Lundius, E.~G.}, \bibinfo{author}{Baltekin, {\"{O}}.} \&
+  \bibinfo{author}{Elf, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{The Synchronization of Replication
+  and Division Cycles in Individual E. coli Cells}}}.
+\newblock {\emph{\JournalTitle{Cell}}} \textbf{\bibinfo{volume}{166}},
+  \bibinfo{pages}{729--739}, \doiprefix\url{10.1016/j.cell.2016.06.052}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Chait2017}
+\bibinfo{author}{Chait, R.}, \bibinfo{author}{Ruess, J.},
+  \bibinfo{author}{Bergmiller, T.}, \bibinfo{author}{Tka{\v{c}}ik, G.} \&
+  \bibinfo{author}{Guet, C.~C.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Shaping bacterial population
+  behavior through computer-interfaced control of individual cells}}}.
+\newblock {\emph{\JournalTitle{Nature Communications}}}
+  \textbf{\bibinfo{volume}{8}}, \doiprefix\url{10.1038/s41467-017-01683-1}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Robert2018}
+\bibinfo{author}{Robert, L.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Mutation dynamics and fitness
+  effects followed in single cells}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{359}},
+  \bibinfo{pages}{1283--1286}, \doiprefix\url{10.1126/science.aan0797}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Robert2018a}
+\bibinfo{author}{Robert, L.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Mutation dynamics and fitness
+  effects followed in single cells}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{359}},
+  \bibinfo{pages}{1283--1286}, \doiprefix\url{10.1126/science.aan0797}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Avital2017}
+\bibinfo{author}{Avital, G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{scDual-Seq: Mapping the gene
+  regulatory program of Salmonella infection by host and pathogen single-cell
+  RNA-sequencing}}}.
+\newblock {\emph{\JournalTitle{Genome Biology}}} \textbf{\bibinfo{volume}{18}},
+  \bibinfo{pages}{1--8}, \doiprefix\url{10.1186/s13059-017-1340-x}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Saliba2016}
+\bibinfo{author}{Saliba, A.~E.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Single-cell RNA-seq ties
+  macrophage polarization to growth rate of intracellular Salmonella}}}.
+\newblock {\emph{\JournalTitle{Nature Microbiology}}}
+  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{1--8},
+  \doiprefix\url{10.1038/nmicrobiol.2016.206} (\bibinfo{year}{2016}).
+
+\bibitem{Monod1949}
+\bibinfo{author}{Monod, J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{The Growth of Bacterial
+  Cultures}}}.
+\newblock {\emph{\JournalTitle{Annual Review of Microbiology}}}
+  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{371--394},
+  \doiprefix\url{10.1146/annurev.mi.03.100149.002103} (\bibinfo{year}{1949}).
+
+\bibitem{Zwietering1990}
+\bibinfo{author}{Zwietering, M.~H.}, \bibinfo{author}{Jongenburger, I.},
+  \bibinfo{author}{Rombouts, F.~M.} \& \bibinfo{author}{{van 't Riet}, K.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Modeling of the bacterial growth
+  curve.}}}
+\newblock {\emph{\JournalTitle{Applied and environmental microbiology}}}
+  \textbf{\bibinfo{volume}{56}}, \bibinfo{pages}{1875--81}
+  (\bibinfo{year}{1990}).
+
+\bibitem{Kargi2009}
+\bibinfo{author}{Kargi, F.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Re-interpretation of the logistic
+  equation for batch microbial growth in relation to Monod kinetics}}}.
+\newblock {\emph{\JournalTitle{Letters in Applied Microbiology}}}
+  \textbf{\bibinfo{volume}{48}}, \bibinfo{pages}{398--401},
+  \doiprefix\url{10.1111/j.1472-765X.2008.02537.x} (\bibinfo{year}{2009}).
+
+\bibitem{Scott2010}
+\bibinfo{author}{Scott, M.}, \bibinfo{author}{Gunderson, C.~W.},
+  \bibinfo{author}{Mateescu, E.~M.}, \bibinfo{author}{Zhang, Z.} \&
+  \bibinfo{author}{Hwa, T.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Interdependence of cell growth and
+  gene expression: Origins and consequences}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{330}},
+  \bibinfo{pages}{1099--1102}, \doiprefix\url{10.1126/science.1192588}
+  (\bibinfo{year}{2010}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Fulwyler1965}
+\bibinfo{author}{Fulwyler, M.~J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Electronic Separation of
+  Biological Cells by Volume}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{150}},
+  \bibinfo{pages}{910--911}, \doiprefix\url{10.1126/science.150.3698.910}
+  (\bibinfo{year}{1965}).
+
+\bibitem{Moffitt2012}
+\bibinfo{author}{Moffitt, J.~R.}, \bibinfo{author}{Lee, J.~B.} \&
+  \bibinfo{author}{Cluzel, P.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{The single-cell chemostat: An
+  agarose-based, microfluidic device for high-throughput, single-cell studies
+  of bacteria and bacterial communities}}}.
+\newblock {\emph{\JournalTitle{Lab on a Chip}}} \textbf{\bibinfo{volume}{12}},
+  \bibinfo{pages}{1487--1494}, \doiprefix\url{10.1039/c2lc00009a}
+  (\bibinfo{year}{2012}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Gurjav2016}
+\bibinfo{author}{Gurjav, U.}, \bibinfo{author}{Jelfs, P.},
+  \bibinfo{author}{Hill-Cawthorne, G.~A.}, \bibinfo{author}{Marais, B.~J.} \&
+  \bibinfo{author}{Sintchenko, V.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Genotype heterogeneity of
+  Mycobacterium tuberculosis within geospatial hotspots suggests foci of
+  imported infection in Sydney, Australia}}}.
+\newblock {\emph{\JournalTitle{Infection, Genetics and Evolution}}}
+  \textbf{\bibinfo{volume}{40}}, \bibinfo{pages}{346--351},
+  \doiprefix\url{10.1016/j.meegid.2015.07.014} (\bibinfo{year}{2016}).
+
+\bibitem{Ackermann2015}
+\bibinfo{author}{Ackermann, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A functional perspective on
+  phenotypic heterogeneity in microorganisms}}}.
+\newblock {\emph{\JournalTitle{Nature Reviews Microbiology}}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{497--508},
+  \doiprefix\url{10.1038/nrmicro3491} (\bibinfo{year}{2015}).
+
+\end{thebibliography}
