@@ -816,4 +816,61 @@
   \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{497--508},
   \doiprefix\url{10.1038/nrmicro3491} (\bibinfo{year}{2015}).
 
+\bibitem{Svensson2018}
+\bibinfo{author}{Svensson, V.}, \bibinfo{author}{Vento-Tormo, R.} \&
+  \bibinfo{author}{Teichmann, S.~A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Exponential scaling of single-cell
+  RNA-seq in the past decade}}}.
+\newblock {\emph{\JournalTitle{Nature Protocols}}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{599--604},
+  \doiprefix\url{10.1038/nprot.2017.149} (\bibinfo{year}{2018}).
+\newblock \eprint{1704.01379}.
+
+\bibitem{Paige2011}
+\bibinfo{author}{Paige, J.~S.}, \bibinfo{author}{Wu, K.~Y.} \&
+  \bibinfo{author}{Jaffrey, S.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{RNA Mimics of Green Fluorescent
+  Protein}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{333}},
+  \bibinfo{pages}{642--646}, \doiprefix\url{10.1126/science.1207339}
+  (\bibinfo{year}{2011}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Strack2013}
+\bibinfo{author}{Strack, R.~L.}, \bibinfo{author}{Disney, M.~D.} \&
+  \bibinfo{author}{Jaffrey, S.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{A superfolding Spinach2 reveals
+  the dynamic nature of trinucleotide repeat–containing RNA}}}.
+\newblock {\emph{\JournalTitle{Nature Methods}}} \textbf{\bibinfo{volume}{10}},
+  \bibinfo{pages}{1219--1224}, \doiprefix\url{10.1038/nmeth.2701}
+  (\bibinfo{year}{2013}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Dolgosheina2014}
+\bibinfo{author}{Dolgosheina, E.~V.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{RNA Mango aptamer-fluorophore: A
+  bright, high-affinity complex for RNA labeling and tracking}}}.
+\newblock {\emph{\JournalTitle{ACS Chemical Biology}}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{2412--2420},
+  \doiprefix\url{10.1021/cb500499x} (\bibinfo{year}{2014}).
+
+\bibitem{Filonov2014}
+\bibinfo{author}{Filonov, G.~S.}, \bibinfo{author}{Moon, J.~D.},
+  \bibinfo{author}{Svensen, N.} \& \bibinfo{author}{Jaffrey, S.~R.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Broccoli: Rapid selection of an
+  RNA mimic of green fluorescent protein by fluorescence-based selection and
+  directed evolution}}}.
+\newblock {\emph{\JournalTitle{Journal of the American Chemical Society}}}
+  \textbf{\bibinfo{volume}{136}}, \bibinfo{pages}{16299--16308},
+  \doiprefix\url{10.1021/ja508478x} (\bibinfo{year}{2014}).
+
+\bibitem{Arora2015}
+\bibinfo{author}{Arora, A.}, \bibinfo{author}{Sunbul, M.} \&
+  \bibinfo{author}{J{\"{a}}schke, A.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Dual-colour imaging of RNAs using
+  quencher- and fluorophore-binding aptamers.}}}
+\newblock {\emph{\JournalTitle{Nucleic acids research}}}
+  \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{e144},
+  \doiprefix\url{10.1093/nar/gkv718} (\bibinfo{year}{2015}).
+
 \end{thebibliography}

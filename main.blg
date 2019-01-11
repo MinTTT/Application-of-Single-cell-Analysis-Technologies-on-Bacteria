@@ -4,45 +4,45 @@ The top-level auxiliary file: main.aux
 The style file: naturemag-doi.bst
 Database file #1: sample.bib
 Warning--can't use both author and editor fields in Taheri-Araghi2016
-You've used 91 entries,
+You've used 97 entries,
             2380 wiz_defined-function locations,
-            1745 strings with 33935 characters,
-and the built_in function-call counts, 38802 in all, are:
-= -- 2884
-> -- 1000
+            1791 strings with 35656 characters,
+and the built_in function-call counts, 41475 in all, are:
+= -- 3083
+> -- 1072
 < -- 1
-+ -- 500
-- -- 250
-* -- 5243
-:= -- 4300
-add.period$ -- 291
-call.type$ -- 91
-change.case$ -- 90
++ -- 536
+- -- 268
+* -- 5610
+:= -- 4594
+add.period$ -- 312
+call.type$ -- 97
+change.case$ -- 96
 chr.to.int$ -- 0
-cite$ -- 92
-duplicate$ -- 3246
-empty$ -- 3407
-format.name$ -- 333
-if$ -- 7583
+cite$ -- 98
+duplicate$ -- 3463
+empty$ -- 3638
+format.name$ -- 357
+if$ -- 8105
 int.to.chr$ -- 0
-int.to.str$ -- 91
-missing$ -- 797
-newline$ -- 483
-num.names$ -- 91
-pop$ -- 393
+int.to.str$ -- 97
+missing$ -- 851
+newline$ -- 516
+num.names$ -- 97
+pop$ -- 419
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 532
+skip$ -- 568
 stack$ -- 0
-substring$ -- 2246
-swap$ -- 3365
+substring$ -- 2407
+swap$ -- 3596
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 266
-width$ -- 93
-write$ -- 1131
+while$ -- 283
+width$ -- 99
+write$ -- 1209
 (There was 1 warning)
