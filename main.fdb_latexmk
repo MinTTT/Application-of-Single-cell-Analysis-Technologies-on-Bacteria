@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1547222688 "main.aux" "main.bbl" "main" 1547225784
+["bibtex main"] 1547303555 "main.aux" "main.bbl" "main" 1547303557
   "./naturemag-doi.bst" 1547081504 36153 a59af0557a0f0c0e857533e984f737bb ""
-  "main.aux" 1547225627 8153 de093e29a3eeefef9c141099ded8f367 ""
-  "sample.bib" 1547215044 176369 01ea947a4c2112abd341b760c37b4e2e ""
+  "main.aux" 1547303557 8693 33aff922ac6056ce3b6dad4449c028cf ""
+  "sample.bib" 1547303456 190258 0f5681cd9e285ab275e6c9673a0d17b5 ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1547225626 "c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria/main.tex" "main.pdf" "main" 1547225784
-  "c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria/main.tex" 1547225625 38464 457f382d44bcbf1e0cfe157ba128783d ""
+  "main.bbl"
+["pdflatex"] 1547303555 "c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria/main.tex" "main.pdf" "main" 1547303557
+  "c:/Users/ThinkPad/Desktop/Application of Single-cell Analysis Technologies on Bacteria/main.tex" 1547303548 41273 9d5b7e818f3bba189a8915046f595379 ""
   "c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc" 1542007789 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1542007901 3332 103109f5612ad95229751940c61aada0 ""
   "c:/texlive/2018/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1542007982 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -133,13 +133,13 @@
   "jabbrv-ltwa-all.ldf" 1547081504 49107 ef89484545be005458b7162f37634c99 ""
   "jabbrv-ltwa-en.ldf" 1547081504 268657 c239d07b7cc89e14f920c5fc8ed8d12e ""
   "jabbrv.sty" 1547081504 15480 2106da179daf9d5a102407956ba23e0c ""
-  "main.aux" 1547225627 8153 de093e29a3eeefef9c141099ded8f367 ""
-  "main.bbl" 1547222689 41357 8ba6251634f99c7fef4cb03bd8e0d552 "bibtex main"
-  "main.out" 1547225627 1083 b79ad88d9eaa319d7a42878cda18db66 ""
-  "main.tex" 1547225625 38464 457f382d44bcbf1e0cfe157ba128783d ""
+  "main.aux" 1547303557 8693 33aff922ac6056ce3b6dad4449c028cf ""
+  "main.bbl" 1547303555 44328 634a8a82e7f8a10956e312741660641b "bibtex main"
+  "main.out" 1547303557 1083 b79ad88d9eaa319d7a42878cda18db66 ""
+  "main.tex" 1547303548 41273 9d5b7e818f3bba189a8915046f595379 ""
   "wlscirep.cls" 1547081504 5788 9df2749839c3a8af12c7b5623dab1715 ""
   (generated)
-  "main.aux"
+  "main.log"
   "main.pdf"
   "main.out"
-  "main.log"
+  "main.aux"

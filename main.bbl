@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 \urlstyle{rm}
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -872,5 +872,72 @@
 \newblock {\emph{\JournalTitle{Nucleic acids research}}}
   \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{e144},
   \doiprefix\url{10.1093/nar/gkv718} (\bibinfo{year}{2015}).
+
+\bibitem{Rosenthal2018}
+\bibinfo{author}{Rosenthal, A.~Z.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Metabolic interactions between
+  dynamic bacterial subpopulations}}}.
+\newblock {\emph{\JournalTitle{eLife}}} \textbf{\bibinfo{volume}{7}},
+  \bibinfo{pages}{1--18}, \doiprefix\url{10.7554/eLife.33099}
+  (\bibinfo{year}{2018}).
+\newblock \eprint{208686}.
+
+\bibitem{Tan2009}
+\bibinfo{author}{Tan, C.}, \bibinfo{author}{Marguet, P.} \&
+  \bibinfo{author}{You, L.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Emergent bistability by a
+  growth-modulating positive feedback circuit}}}.
+\newblock {\emph{\JournalTitle{Nature Chemical Biology}}}
+  \textbf{\bibinfo{volume}{5}}, \bibinfo{pages}{842--848},
+  \doiprefix\url{10.1038/nchembio.218} (\bibinfo{year}{2009}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Badrinarayanan2012}
+\bibinfo{author}{Badrinarayanan, A.}, \bibinfo{author}{Reyes-Lamothe, R.},
+  \bibinfo{author}{Uphoff, S.}, \bibinfo{author}{Leake, M.~C.} \&
+  \bibinfo{author}{Sherratt, D.~J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{In vivo architecture and action of
+  bacterial structural maintenance of chromosome proteins}}}.
+\newblock {\emph{\JournalTitle{Science}}} \textbf{\bibinfo{volume}{338}},
+  \bibinfo{pages}{528--531}, \doiprefix\url{10.1126/science.1227126}
+  (\bibinfo{year}{2012}).
+\newblock \eprint{9809069v1}.
+
+\bibitem{Le2005}
+\bibinfo{author}{Le, T.~T.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Real-time RNA profiling within a
+  single bacterium.}}}
+\newblock {\emph{\JournalTitle{Proceedings of the National Academy of Sciences
+  of the United States of America}}} \textbf{\bibinfo{volume}{102}},
+  \bibinfo{pages}{9160--4}, \doiprefix\url{10.1073/pnas.0503311102}
+  (\bibinfo{year}{2005}).
+
+\bibitem{Golding2005}
+\bibinfo{author}{Golding, I.}, \bibinfo{author}{Paulsson, J.},
+  \bibinfo{author}{Zawilski, S.~M.} \& \bibinfo{author}{Cox, E.~C.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Real-Time Kinetics of Gene
+  Activity in Individual Bacteria}}}.
+\newblock {\emph{\JournalTitle{Cell}}} \textbf{\bibinfo{volume}{123}},
+  \bibinfo{pages}{1025--1036}, \doiprefix\url{10.1016/j.cell.2005.09.031}
+  (\bibinfo{year}{2005}).
+\newblock \eprint{arXiv:1011.1669v3}.
+
+\bibitem{OConnell2014}
+\bibinfo{author}{O'Connell, M.~R.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{Programmable RNA recognition and
+  cleavage by CRISPR/Cas9}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{516}},
+  \bibinfo{pages}{263--266}, \doiprefix\url{10.1038/nature13769}
+  (\bibinfo{year}{2014}).
+\newblock \eprint{NIHMS150003}.
+
+\bibitem{Abudayyeh2017}
+\bibinfo{author}{Abudayyeh, O.~O.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{RNA targeting with
+  CRISPR–Cas13}}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{550}},
+  \bibinfo{pages}{280--284}, \doiprefix\url{10.1038/nature24049}
+  (\bibinfo{year}{2017}).
+\newblock \eprint{NIHMS150003}.
 
 \end{thebibliography}
